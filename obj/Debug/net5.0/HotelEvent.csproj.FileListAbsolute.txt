@@ -1,0 +1,16 @@
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\HotelEvent\bin\Debug\net5.0\HotelEvent.exe
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\HotelEvent\bin\Debug\net5.0\HotelEvent.deps.json
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\HotelEvent\bin\Debug\net5.0\HotelEvent.runtimeconfig.json
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\HotelEvent\bin\Debug\net5.0\HotelEvent.runtimeconfig.dev.json
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\HotelEvent\bin\Debug\net5.0\HotelEvent.dll
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\HotelEvent\bin\Debug\net5.0\ref\HotelEvent.dll
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\HotelEvent\bin\Debug\net5.0\HotelEvent.pdb
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\HotelEvent\obj\Debug\net5.0\HotelEvent.csprojAssemblyReference.cache
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\HotelEvent\obj\Debug\net5.0\HotelEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\HotelEvent\obj\Debug\net5.0\HotelEvent.AssemblyInfoInputs.cache
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\HotelEvent\obj\Debug\net5.0\HotelEvent.AssemblyInfo.cs
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\HotelEvent\obj\Debug\net5.0\HotelEvent.csproj.CoreCompileInputs.cache
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\HotelEvent\obj\Debug\net5.0\HotelEvent.dll
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\HotelEvent\obj\Debug\net5.0\ref\HotelEvent.dll
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\HotelEvent\obj\Debug\net5.0\HotelEvent.pdb
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\HotelEvent\obj\Debug\net5.0\HotelEvent.genruntimeconfig.cache
